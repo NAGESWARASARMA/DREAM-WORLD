@@ -34,8 +34,8 @@ DreamWorld makes creativity accessible to everyone by giving people a simple way
 
 💫 Vision
 
-«"Your imagination. Your world. Your creation."»
 
+Your imagination. Your world. Your creation>
 DreamWorld aims to create a space where anyone can imagine anything and see it come to life. 🌌🌈
 
 👨‍💻 My Journey
