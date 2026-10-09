@@ -20,7 +20,7 @@ Just describe what you imagine, and DreamWorld brings your idea to life.
 
 Think → Imagine → Create → Explore
 
-DreamWorld makes creativity accessible to everyone by giving people a simple way to visualize what they imagine. 🌍
+DreamWorld makes creativity accessible to everyone by giving people a simple way to visualize what they imagine. 
 
 🎯 Uses
 
@@ -36,7 +36,7 @@ DreamWorld makes creativity accessible to everyone by giving people a simple way
 
 
 Your imagination. Your world. Your creation>
-DreamWorld aims to create a space where anyone can imagine anything and see it come to life. 🌌
+DreamWorld aims to create a space where anyone can imagine anything and see it come to life. 
 
 👨‍💻 My Journey
 
